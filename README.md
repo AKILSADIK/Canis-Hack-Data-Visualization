@@ -102,6 +102,9 @@ Provide detailed information for a specific entity.
 #### Visualization:
 Use a detailed table or card view for the selected entity.
 
+##Check out our project on cloud sample
+https://public.tableau.com/app/profile/akil.sadik.m.h/viz/CanisHack/CanisProDataVisualization?publish=yes
+
 ---
 
 <!-- Installation -->
