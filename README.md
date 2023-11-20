@@ -107,7 +107,7 @@ Use a detailed table or card view for the selected entity.
 <!-- Installation -->
 ## Installation
 
-1. Clone the repository: `git clone [repository-url]`
+1. Clone the repository: `git clone https://github.com/AKILSADIK/Canis-Hack-Data-Visualization`
 2. Navigate to the project directory.
 
 <!-- Usage -->
@@ -123,7 +123,11 @@ Use a detailed table or card view for the selected entity.
 
 Thank you to the contributors who participated in the Canis Hack Data Visualizations project:
 
-- [Your Name](Your GitHub Profile Link)
+- [Akil Sadik M H](https://github.com/AKILSADIK)
+- [Hari Hrithik R A](https://github.com/Rharikrishna02)
+- [Cibi Jegan A]
+- [Yeshwanth N B]
+
 
 Contribute to the project by forking the repository, creating a new branch, making changes, and creating a pull request.
 
