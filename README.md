@@ -124,7 +124,7 @@ Use a detailed table or card view for the selected entity.
 Thank you to the contributors who participated in the Canis Hack Data Visualizations project:
 
 - [Akil Sadik M H](https://github.com/AKILSADIK)
-- [Hari Hrithik R A](https://github.com/Rharikrishna02)
+- [Hari Hrithik R A](https://github.com/HARIHRITHIK)
 - [Cibi Jegan A]
 - [Yeshwanth N B]
 
