@@ -128,7 +128,7 @@ Thank you to the contributors who participated in the Canis Hack Data Visualizat
 
 - [Akil Sadik M H](https://github.com/AKILSADIK)
 - [Hari Hrithik R A](https://github.com/HARIHRITHIK)
-- [Cibi Jegan A]
+- [Cibi Jegan A](https://github.com/CibiJegan)
 - [Yeshwanth N B]
 
 
